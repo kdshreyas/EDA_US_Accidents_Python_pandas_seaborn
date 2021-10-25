@@ -5,8 +5,11 @@ This dataset has been collected in real-time, using multiple Traffic APIs. Curre
 # Summary and Conclusion
 Insights:
 
-No data from New York
-less than 3% of cities have more than 1000 yearly accidents.
-Over 1100 cities have reported just one accident (need to investigate)
-data points are missing for year 2016
+1. No data from New York
+2. less than 3% of cities have more than 1000 yearly accidents.
+3. Over 1100 cities have reported just one accident (need to investigate)
+4. data points are missing for year 2016
+
+
+
 
