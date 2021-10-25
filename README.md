@@ -11,5 +11,11 @@ Insights:
 4. data points are missing for year 2016
 
 
+Areas of future work:
+
+1. Accident analysis according to weather Humidity(%) 'Pressure(in) 'Visibility(mi)
+2. Accident analysis according to road condition (related columns 'Bump', 'Crossing')
+
+
 
 
