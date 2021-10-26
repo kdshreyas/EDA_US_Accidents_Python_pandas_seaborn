@@ -1,21 +1,7 @@
 # Exploratory_Data_Analysis_US_Accidents
 
-This dataset has been collected in real-time, using multiple Traffic APIs. Currently, it contains accident data that are collected from February 2016 to Dec 2020
+This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to Dec 2020, using multiple APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 1.5 million accident records in this dataset.
 
-# Summary and Conclusion
-Insights:
-
-1. No data from New York
-2. less than 3% of cities have more than 1000 yearly accidents.
-3. Over 1100 cities have reported just one accident (need to investigate)
-4. data points are missing for year 2016
-
-
-Areas of future work:
-
-1. Accident analysis according to weather Humidity(%) 'Pressure(in) 'Visibility(mi)
-2. Accident analysis according to road condition (related columns 'Bump', 'Crossing')
-
-
+To perform Exploratory data analysis pandas and seaborn libraries of python were used for data preparation and visualization respectively
 
 
